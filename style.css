@@ -1,0 +1,32 @@
+*{
+    marge : 0;
+}
+ html,h1,h2,h3,h4,h5,h6,a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+corps{
+    Contexte: #fafafa;
+    Largeur: 100%;
+    Hauteur: 100%;
+    débordement-x: caché;
+}
+/* en-tête{
+ arrière-plan: url(./img/bg-3.jpg) sans répétition;
+ background-attachment:fixe;
+ hauteur: 90vh;
+ taille de fond: couverture;
+ background-position: centre;
+} */
+. superposer {
+    Couleur de fond: RGBA (33, 33, 32, 0.738);
+    Largeur: 100%;
+    Hauteur: 100%;
+}
+. image_bannière{
+    background-image: url(. /img/bg-3.jpg);
+    arrière-plan-répétition: pas de répétition;
+    background-attachment:fixe;
+    Hauteur: 90VH;
+    taille de fond: couverture;
+    background-position: centre;
+}
